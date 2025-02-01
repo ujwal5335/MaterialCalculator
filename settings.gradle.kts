@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MaterialCalculatorTheme"
+rootProject.name = "MaterialCalculator"
 include(":app")

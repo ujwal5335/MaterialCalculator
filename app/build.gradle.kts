@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ujwal.materialcalculatortheme"
+    namespace = "com.ujwal.materialcalculator"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.ujwal.materialcalculatortheme"
+        applicationId = "com.ujwal.materialcalculator"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

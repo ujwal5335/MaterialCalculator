@@ -1,4 +1,4 @@
-package com.ujwal.materialcalculatortheme
+package com.ujwal.materialcalculator
 
 import org.junit.Test
 
